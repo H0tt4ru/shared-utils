@@ -9,7 +9,7 @@ import lombok.RequiredArgsConstructor;
 
 @Component
 @RequiredArgsConstructor
-public class UserValidationAuth {
+public class UserValidation {
 
     private final UserRepository userRepository;
 
